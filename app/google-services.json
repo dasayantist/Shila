@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "417987347076",
+    "firebase_url": "https://bulk-sms-495fb.firebaseio.com",
+    "project_id": "bulk-sms-495fb",
+    "storage_bucket": "bulk-sms-495fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417987347076:android:0eef0a057dcc2add",
+        "android_client_info": {
+          "package_name": "com.dasayantist.shila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417987347076-of4hnaoa2bit245a929o52qbhj6e3cdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dasayantist.shila",
+            "certificate_hash": "95cacebea0e61998dd530657e3a255e2ba044837"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARMvpgG2SF9xzkZ98xQ4FtQUWWDrJL_KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417987347076-33gps6r2pjv4j88me2f3b7orejt28sta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
